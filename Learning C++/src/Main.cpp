@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Enter ur name nigga" << endl;
+	cout << "Enter ur name" << endl;
 
 	string name;
 	cin >> name;
