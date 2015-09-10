@@ -17,5 +17,6 @@ int main()
 	cin >> name;
 
 	cout << "yo wassup " << name << endl;
+	cout << "eyyyyyy" << endl;
 	return 0;
 }
